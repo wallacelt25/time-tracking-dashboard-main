@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Frontend Mentor | Time tracking dashboard</title>
+</head>
+<body>
+  <main>
+    <div class="user-card">
+      <div class="user-card-content">
+        <div class="profile-picture"></div>
+        <div class="profile-name">
+          <p>Report for</p>
+          <h1 class="white">Jeremy Robson</h1>
+        </div>
+      </div>
+      <div class="period">
+        <a class="active" href="#" id="daily-period">Daily</a>
+        <a href="#" id="weekly-period">Weekly</a>
+        <a href="#" id="monthly-period">Monthly</a>
+      </div>
+    </div>
+    <div class="card" id="work">
+      <div class="card-content">
+        <div class="section">
+          <h2 class="white">Work</h2>
+          <img src="images/icon-ellipsis.svg" alt="">
+        </div>
+        <div class="time">
+          <h3 class="white"><span id="work-time-current">5</span>hrs</h3>
+          <p>Previous - <span id="work-time-previous">7</span>hrs</p>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="play">
+      <div class="card-content">
+        <div class="section">
+          <h2 class="white">Play</h2>
+          <img src="images/icon-ellipsis.svg" alt="">
+        </div>
+        <div class="time">
+          <h3 class="white"><span id="play-time-current">1</span>hrs</h3>
+          <p>Previous - <span id="play-time-previous">2</span>hrs</p>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="study">
+      <div class="card-content">
+        <div class="section">
+          <h2 class="white">Study</h2>
+          <img src="images/icon-ellipsis.svg" alt="">
+        </div>
+        <div class="time">
+          <h3 class="white"><span id="study-time-current">0</span>hrs</h3>
+          <p>Previous - <span id="study-time-previous">1</span>hrs</p>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="exercise">
+      <div class="card-content">
+        <div class="section">
+          <h2 class="white">Exercise</h2>
+          <img src="images/icon-ellipsis.svg" alt="">
+        </div>
+        <div class="time">
+          <h3 class="white"><span id="exercise-time-current">1</span>hrs</h3>
+          <p>Previous - <span id="exercise-time-previous">1</span>hrs</p>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="social">
+      <div class="card-content">
+        <div class="section">
+          <h2 class="white">Social</h2>
+          <img src="images/icon-ellipsis.svg" alt="">
+        </div>
+        <div class="time">
+          <h3 class="white"><span id="social-time-current">1</span>hrs</h3>
+          <p>Previous - <span id="social-time-previous">3</span>hrs</p>
+        </div>
+      </div>
+    </div>
+    <div class="card" id="self-care">
+      <div class="card-content">
+        <div class="section">
+          <h2 class="white">Self Care</h2>
+          <img src="images/icon-ellipsis.svg" alt="">
+        </div>
+        <div class="time">
+          <h3 class="white"><span id="self-care-time-current">0</span>hrs</h3>
+          <p>Previous - <span id="self-care-time-previous">1</span>hrs</p>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
