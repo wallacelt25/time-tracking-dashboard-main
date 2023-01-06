@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-(img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210930490-c1d787a3-66e0-48fb-90c0-76b52f7201f8.png")
+<img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210930490-c1d787a3-66e0-48fb-90c0-76b52f7201f8.png">
 
 Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -42,9 +42,9 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 - Live Site URL: https://wallacelt25.github.io/time-tracking-dashboard-main/
 
 ## My process
-(img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210931153-620dac69-258e-4834-9b58-fb0bcb0c3162.png")
-(img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210931167-e9a97a44-01d2-4fd4-a113-473cb1d9ddec.png")
-(img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210931193-62ed323e-c830-43bf-82e3-926ecc545be3.png")
+<img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210931153-620dac69-258e-4834-9b58-fb0bcb0c3162.png">
+<img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210931167-e9a97a44-01d2-4fd4-a113-473cb1d9ddec.png">
+<img width="473" alt="IMG_2952" src="https://user-images.githubusercontent.com/114073349/210931193-62ed323e-c830-43bf-82e3-926ecc545be3.png">
 
 ### Built with
 - Visual Studio Code
